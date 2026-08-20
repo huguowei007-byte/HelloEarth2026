@@ -1,2 +1,2 @@
 my first repository
-do update 001
+do update 002
