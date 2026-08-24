@@ -1,2 +1,6 @@
 my first repository
+<<<<<<< HEAD
 do update 003
+=======
+do update 002
+>>>>>>> 5a0292215b343d1c9d97872fb5525dee7635fc12
